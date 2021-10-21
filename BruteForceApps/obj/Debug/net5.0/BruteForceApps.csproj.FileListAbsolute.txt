@@ -1,0 +1,16 @@
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\bin\Debug\net5.0\BruteForceApps.exe
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\bin\Debug\net5.0\BruteForceApps.deps.json
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\bin\Debug\net5.0\BruteForceApps.runtimeconfig.json
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\bin\Debug\net5.0\BruteForceApps.runtimeconfig.dev.json
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\bin\Debug\net5.0\BruteForceApps.dll
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\bin\Debug\net5.0\ref\BruteForceApps.dll
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\bin\Debug\net5.0\BruteForceApps.pdb
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\obj\Debug\net5.0\BruteForceApps.csproj.AssemblyReference.cache
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\obj\Debug\net5.0\BruteForceApps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\obj\Debug\net5.0\BruteForceApps.AssemblyInfoInputs.cache
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\obj\Debug\net5.0\BruteForceApps.AssemblyInfo.cs
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\obj\Debug\net5.0\BruteForceApps.csproj.CoreCompileInputs.cache
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\obj\Debug\net5.0\BruteForceApps.dll
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\obj\Debug\net5.0\ref\BruteForceApps.dll
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\obj\Debug\net5.0\BruteForceApps.pdb
+C:\Users\iredc\source\repos\BruteForceApps\BruteForceApps\obj\Debug\net5.0\BruteForceApps.genruntimeconfig.cache
